@@ -114,7 +114,7 @@ fun DogListApp() {
                 modifier = Modifier.padding(bottom = 8.dp)
             )
             Text(
-                text = "❤️ Ulubione : ${favoriteDogs.size}",
+                text = "\u2764  : ${favoriteDogs.size}",
                 fontWeight = FontWeight.Bold,
                 modifier = Modifier.padding(bottom = 8.dp)
             )
